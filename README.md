@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NouzNoushad
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me, by my email: nhd7noushadazeez@gmail.com
 
 <!---
