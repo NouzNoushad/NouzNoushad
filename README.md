@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NouzNoushad
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Nodejs & PHP
+- 👀 I’m interested in App development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me, by my email: nhd7noushadazeez@gmail.com
 
 <!---
