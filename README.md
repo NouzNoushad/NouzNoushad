@@ -11,7 +11,7 @@
 - 📫 How to reach me **nhd7noushadazeez@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> HTML, CSS, Javascript, Java, Dart, Flutter, ReactJs, NodeJs, Laravel, Mongodb, Mysql </p>
+<p align="left"> HTML, CSS, Javascript, Dart, PHP, Flutter, ReactJs, NodeJs, Laravel, Mongodb, Mysql </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouznoushad&show_icons=true&locale=en&layout=compact" alt="nouznoushad" /></p>
 
