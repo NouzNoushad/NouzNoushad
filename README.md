@@ -1,10 +1,10 @@
-![MasterHead](https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS.jpg)
+![MasterHead](https://9to5google.com/wp-content/uploads/sites/4/2022/05/flutter-3-hero.png?w=1600)
 <h1 align="center">Hi 👋, I'm NouzNoushad</h1>
 <h3 align="center">A passionate Web & App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouznoushad&label=Profile%20views&color=0e75b6&style=flat" alt="nouznoushad" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Flutter, Dart, Javascript**
 
