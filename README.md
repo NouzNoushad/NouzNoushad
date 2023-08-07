@@ -13,11 +13,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> HTML, CSS, Javascript, Dart, PHP, Flutter, ReactJs, NodeJs, Laravel, Mongodb, Mysql </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouznoushad&show_icons=true&locale=en&layout=compact" alt="nouznoushad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouznoushad&show_icons=true&locale=en" alt="nouznoushad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouznoushad&" alt="nouznoushad" /></p>
-
 
 
