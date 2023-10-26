@@ -1,4 +1,4 @@
-![MasterHead](https://9to5google.com/wp-content/uploads/sites/4/2022/05/flutter-3-hero.png?w=1600)
+![MasterHead](https://pbs.twimg.com/media/FSgl1OfUcAEsiQV.jpg:large)
 <h1 align="center">Hi 👋, I'm NouzNoushad</h1>
 <h3 align="center">A passionate Web & App developer</h3>
 
