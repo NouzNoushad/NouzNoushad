@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/media/FSgl1OfUcAEsiQV.jpg:large)
+![MasterHead](https://www.azquotes.com/picture-quotes/quote-i-m-not-a-great-programmer-i-m-just-a-good-programmer-with-great-habits-kent-beck-65-55-37.jpg)
 <h1 align="center">Hi 👋, I'm NouzNoushad</h1>
 <h3 align="center">A passionate Web & App developer</h3>
 
